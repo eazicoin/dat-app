@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error, accuracy_score
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.impute import SimpleImputer
 import plotly.express as px
-from ydate_profiling import ProfileReport
+from ydata_profiling import ProfileReport
 import datetime
 import tempfile
 import os
